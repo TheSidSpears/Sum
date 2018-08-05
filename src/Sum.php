@@ -1,6 +1,6 @@
 <?php
 
-namespace FFormula;
+namespace SidSpears;
 
 class Sum
 {
